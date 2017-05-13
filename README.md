@@ -1,5 +1,7 @@
 # fuuw
 
+# DRAFT - NOT WORKING
+
 Fully Upgrade Using wget
 
 Installation
